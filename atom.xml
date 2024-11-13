@@ -3,11 +3,11 @@
   <title>Youtong&#39;s Blog</title>
   
   <subtitle>sub</subtitle>
-  <link href="https://youtong0826.github.io/project/atom.xml" rel="self"/>
+  <link href="https://youtong0826.github.io/atom.xml" rel="self"/>
   
-  <link href="https://youtong0826.github.io/project/"/>
+  <link href="https://youtong0826.github.io/"/>
   <updated>2024-11-13T21:02:27.690Z</updated>
-  <id>https://youtong0826.github.io/project/</id>
+  <id>https://youtong0826.github.io/</id>
   
   <author>
     <name>Youtong</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://youtong0826.github.io/project/2024/11/14/hello-world/"/>
-    <id>https://youtong0826.github.io/project/2024/11/14/hello-world/</id>
+    <link href="https://youtong0826.github.io/2024/11/14/hello-world/"/>
+    <id>https://youtong0826.github.io/2024/11/14/hello-world/</id>
     <published>2024-11-13T19:54:35.119Z</published>
     <updated>2024-11-13T21:02:27.690Z</updated>
     
