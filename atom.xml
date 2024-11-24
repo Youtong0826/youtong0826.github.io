@@ -6,7 +6,7 @@
   <link href="https://youtong0826.github.io/atom.xml" rel="self"/>
   
   <link href="https://youtong0826.github.io/"/>
-  <updated>2024-11-23T14:31:41.720Z</updated>
+  <updated>2024-11-24T13:51:21.128Z</updated>
   <id>https://youtong0826.github.io/</id>
   
   <author>
@@ -15,6 +15,38 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>工科賽筆記 C# namespace &amp; library 模板</title>
+    <link href="https://youtong0826.github.io/%E5%B7%A5%E7%A7%91%E8%B3%BD%E7%AD%86%E8%A8%98-template/"/>
+    <id>https://youtong0826.github.io/%E5%B7%A5%E7%A7%91%E8%B3%BD%E7%AD%86%E8%A8%98-template/</id>
+    <published>2024-11-23T16:00:00.000Z</published>
+    <updated>2024-11-24T13:51:21.128Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://youtong0826.github.io/images/工科賽筆記/template.png" alt="$cover"></p><h3 id="template">template</h3><pre><code class="hljs cs"><span class="hljs-keyword">using</span> System.IO;<span class="hljs-keyword">using</span> System.Data;<span class="hljs-keyword">using</span> <span class="hljs-keyword">static</span> System.Console;<span class="hljs-keyword">using</span> <span class="hljs-keyword">static</span> System.Convert;<span class="hljs-keyword">using</span> <span class="hljs-keyword">static</span> System.Environment;<span class="hljs-keyword">using</span> <span class="hljs-keyword">static</span> System.Math;<span class="hljs-keyword">using</span> <span class="hljs-keyword">static</span> System.Linq.Enumerable;</code></pre>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://youtong0826.github.io/images/工科賽筆記/template.png&quot; alt=&quot;$cover&quot;&gt;&lt;/p&gt;
+&lt;h3 id=&quot;template&quot;&gt;template&lt;/h3&gt;
+&lt;pre&gt;&lt;code class=&quot;hl</summary>
+      
+    
+    
+    
+    <category term="工科賽筆記" scheme="https://youtong0826.github.io/categories/%E5%B7%A5%E7%A7%91%E8%B3%BD%E7%AD%86%E8%A8%98/"/>
+    
+    
+    <category term="C#" scheme="https://youtong0826.github.io/tags/C/"/>
+    
+    <category term=".NET" scheme="https://youtong0826.github.io/tags/NET/"/>
+    
+    <category term="電腦軟體設計" scheme="https://youtong0826.github.io/tags/%E9%9B%BB%E8%85%A6%E8%BB%9F%E9%AB%94%E8%A8%AD%E8%A8%88/"/>
+    
+    <category term="全國技藝競賽" scheme="https://youtong0826.github.io/tags/%E5%85%A8%E5%9C%8B%E6%8A%80%E8%97%9D%E7%AB%B6%E8%B3%BD/"/>
+    
+  </entry>
   
   <entry>
     <title>中山資工 面試心得</title>
